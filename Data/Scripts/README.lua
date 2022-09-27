@@ -9,7 +9,7 @@
                  |___/  
 -------------------------------------------------------------------------------
 
-The Player Indicator component will add an indicator above all players heads in the game so that players
+The Player Indicator component will add an indicator above all player's heads in the game so that players
 can easily find where other players are in the game. This is useful for open world games where finding 
 players can improve the experience for the player themself. It also helps make the world feel active.
 
@@ -29,7 +29,7 @@ The distance the icon is from the edge of the screen.
 
 - WorldOffset
 
-Distance above the player head.
+Distance above the player's head.
 
 - Icon
 
